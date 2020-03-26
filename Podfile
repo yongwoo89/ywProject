@@ -7,4 +7,5 @@ target 'SimpleTest' do
 
   # Pods for SimpleTest
 
+  pod 'Alamofire', '~> 5.0'
 end
